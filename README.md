@@ -1,0 +1,2 @@
+# cyber-demo
+Static demo
